@@ -10,8 +10,8 @@ Using ML methods to make interesting projects
 
 ## Project01 : Regression
 - Goal :       
-(1) According to the data of pokemon, try to predict the cp value after pokemon evolution.
-(2) According to the sensor data, try to predict the PM2.5 by today information.
+(1) According to the data of pokemon, try to predict the cp value after pokemon evolution.      
+(2) According to the sensor data, try to predict the PM2.5 by today information.    
 >
 - Result :      
 ![](https://github.com/tailer954/Machine-Learning/blob/master/01_Regression/Image/Regression%20(One%20Order).png)
