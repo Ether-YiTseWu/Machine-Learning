@@ -1,5 +1,5 @@
 # Machine-Learning
-Using ML methods to make interesting projects
+Using ML methods to make interesting projects, including linear regression, logistic regression, and backpropagation neural network. These projects are not completed by tensorflow or keras, instead, by my own programming skill.
 >
 ## Course content
 - Introduction
