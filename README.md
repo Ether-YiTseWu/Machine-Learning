@@ -21,6 +21,8 @@ Using ML methods to make interesting projects, including linear regression, logi
 - Goal :       
 
 >
-- Result :      
-
+- GUI Result :    
+![](https://github.com/tailer954/Machine-Learning/blob/master/02_Logistic%20Regression/Image/GUI%20appearance.png)
+>
+- Training Result :    
 >
