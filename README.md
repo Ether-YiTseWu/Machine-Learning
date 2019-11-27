@@ -17,3 +17,10 @@ Using ML methods to make interesting projects, including linear regression, logi
 ![](https://github.com/tailer954/Machine-Learning/blob/master/01_Regression/Image/PokemonRegressionSets.PNG)
 ![](https://github.com/tailer954/Machine-Learning/blob/master/01_Regression/Image/PM2.5RegressionSets.PNG)
 >
+## Project02 : Logistic Regression
+- Goal :       
+
+>
+- Result :      
+
+>
