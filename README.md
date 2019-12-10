@@ -6,6 +6,13 @@ Using ML methods to make interesting projects, including linear regression, logi
 - Regression
 - Bias and variance
 - Gradient Descent
+- Classification
+- Logistic Regression
+- Deep Learning
+- Backpropagation
+- Keras
+- Deep Neural Networks Tips
+- Convolutional Neural Network
 >
 
 ## Project01 : Regression
@@ -19,10 +26,12 @@ Using ML methods to make interesting projects, including linear regression, logi
 >
 ## Project02 : Logistic Regression
 - Goal :       
-
+Use logistic regression to deal with two class data.
 >
 - GUI Result :    
 ![](https://github.com/tailer954/Machine-Learning/blob/master/02_Logistic%20Regression/Image/GUI%20appearance.png)
 >
 - Training Result :    
+![](https://github.com/tailer954/Machine-Learning/blob/master/02_Logistic%20Regression/Image/LogisticRegressionSet.PNG)
 >
+## Project03 : Backpropagation
