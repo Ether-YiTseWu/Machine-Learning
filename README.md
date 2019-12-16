@@ -35,3 +35,12 @@ Use logistic regression to deal with two class data.
 ![](https://github.com/tailer954/Machine-Learning/blob/master/02_Logistic%20Regression/Image/LogisticRegressionSet.PNG)
 >
 ## Project03 : Backpropagation
+- Goal :       
+Use backpropagation to deal with two class data.
+>
+- GUI Result :    
+![](https://github.com/tailer954/Machine-Learning/blob/master/03_Backpropagation/Image/GUI%20appearance.png)
+>
+- Training Result :    
+
+>
