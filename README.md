@@ -13,7 +13,7 @@ Using ML methods to make interesting projects, including linear regression, logi
 >
 ## Project02 : Logistic Regression
 - Goal :       
-Use logistic regression to deal with two class data.
+Use logistic regression to deal with two class data. [GUI Download URL](https://mega.nz/#!dLAAgA5B!0_6XgtUtmmPrjjVuam559NvQeqaXOSnygeApQZtxD5I)
 >
 - GUI Result :    
 ![](https://github.com/tailer954/Machine-Learning/blob/master/02_Logistic%20Regression/Image/GUI%20appearance.png)
@@ -23,7 +23,7 @@ Use logistic regression to deal with two class data.
 >
 ## Project03 : Backpropagation
 - Goal :       
-Use backpropagation to deal with two class data.
+Use backpropagation to deal with two class data. [GUI Download URL](https://mega.nz/#!ULoRED5L!GsuFHiYqq1Beyi6SYkR73HJSq_IWG6QwmR1XF8c5naE)
 >
 - GUI Result :    
 ![](https://github.com/tailer954/Machine-Learning/blob/master/03_Backpropagation/Image/GUI%20appearance.png)
